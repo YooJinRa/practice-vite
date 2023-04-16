@@ -1,6 +1,6 @@
 import React, { createContext, useState } from 'react';
-import Button from './Button';
-import Form from './Form';
+import Button from '@components/atoms/Button/Button';
+import Form from '../../molecules/Form/Form';
 import './practice-context-api.css';
 
 export const ThemeContext = createContext('light');

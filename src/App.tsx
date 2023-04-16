@@ -1,5 +1,5 @@
 import React from 'react';
-import PracticeContextAPI from '@components/PracticeContextAPI/PracticeContextAPI';
+import PracticeContextAPI from '@components/organisms/PracticeContextAPI/PracticeContextAPI';
 import './App.css';
 
 const App = () => {

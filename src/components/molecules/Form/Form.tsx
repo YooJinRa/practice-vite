@@ -1,6 +1,6 @@
 import React from 'react';
-import Button from './Button';
-import Panel from './Panel';
+import Button from '@components/atoms/Button/Button';
+import Panel from '@components/molecules/Panel/Panel';
 
 const Form = () => {
   return (
