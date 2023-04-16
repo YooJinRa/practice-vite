@@ -17,15 +17,15 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["src/components/*"],
-      "@atoms/*": ["/src/components/atoms/*"],
-      "@molecules/*": ["/src/components/molecules/*"],
-      "@organisms/*": ["/src/components/organisms/*"],
-      "@templates/*": ["/src/components/templates/*"],
-      "@pages/*": ["/src/components/pages/*"],
-      "@views/*": ["/src/components/views/*"],
-      "@assets/*": ["src/assets/*"],
-      "@/*": ["src/*"]
+      "@atoms/*": ["./src/components/atoms/*"],
+      "@molecules/*": ["./src/components/molecules/*"],
+      "@organisms/*": ["./src/components/organisms/*"],
+      "@templates/*": ["./src/components/templates/*"],
+      "@pages/*": ["./src/components/pages/*"],
+      "@views/*": ["./src/components/views/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@components/*": ["./src/components/*"],
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"],

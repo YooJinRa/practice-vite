@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { ThemeContext } from '@components/organisms/PracticeContextAPI/PracticeContextAPI';
+import { ThemeContext } from '@organisms/PracticeContextAPI/PracticeContextAPI';
 
 interface Props {
   children: React.ReactNode;
